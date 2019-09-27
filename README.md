@@ -1,3 +1,5 @@
+forked by NTS.
+
 # UETsegmenter
 
 UETsegmenter is a toolkit for Vietnamese word segmentation. It uses a hybrid approach that is based on longest matching with logistic regression.
